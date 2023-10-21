@@ -14,7 +14,7 @@ sudo apt install -y python3 systemd python3-pip
 ```
 
 ```bash
-pip3 install requests python-systemd python-telegram-bot
+pip3 install requests python-systemd
 ```
 ## 1.2 Installation of the monitoring application
 
